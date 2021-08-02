@@ -4,7 +4,7 @@ In this porgram, the user enters the first and last name of an NHL player. The u
 page of the player's career statistics in Mozilla Firefox. The name of the player can be entirely in lower case.
 
 To compile and run the program:
-javac Player_Stats.java
+javac Player_Stats.java\
 java Player_Stats
 
 If you are using Windows and get the error: 'Javac is Not Recognized as an Internal or External Command',
